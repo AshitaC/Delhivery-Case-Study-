@@ -84,3 +84,15 @@ Handling categorical values
 
 Missing values - Outlier treatment / Types of outliers
 
+**Recommendations**
+
+-Since there is a significant difference between OSRM and actual parameters, the company should revisit information fed to routing engine for trip planning.
+
+-These difference should be reduced, so that better delivery time prediction can be made and it becomes convenient for the customer to expect an accurate delivery time.
+
+-Since there is heavy traffic in Mahrashtra followed by Karnataka, the company should plan for enough resources on ground in these 2 states on priority for example during festive seasons.
+
+-Since most of the trips are taking place in tier 1 cities like bangalore, mumbai and hyderabad and are mostly inter city. There are not many interstate deliveries taking place. Team can focus on inter state orders since it can generate more revenue due to long distance parcels.
+
+-Since least orders are reaching/coming from North East states, more corridors/campaigns can be promoted to penetrate in these states as well.
+
